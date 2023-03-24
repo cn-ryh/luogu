@@ -1,4 +1,4 @@
-# luogu
+# Luogu
 
 ## 介绍
 
