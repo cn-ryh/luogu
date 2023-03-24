@@ -1,0 +1,1 @@
+//P2589 write by cn_ryh

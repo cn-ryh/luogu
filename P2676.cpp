@@ -1,0 +1,1 @@
+//P2676 write by cn_ryh

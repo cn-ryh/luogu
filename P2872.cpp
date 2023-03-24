@@ -1,0 +1,1 @@
+//P2872 write by cn_ryh
