@@ -1,1 +1,1 @@
-//P2880 write by cn_ryh
+// P2880 write by cn_ryh

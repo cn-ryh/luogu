@@ -1,1 +1,1 @@
-//P2590 write by cn_ryh
+// P2590 write by cn_ryh

@@ -1,1 +1,1 @@
-//P1271 write by cn_ryh
+// P1271 write by cn_ryh

@@ -1,1 +1,1 @@
-//P1879 write by cn_ryh
+// P1879 write by cn_ryh

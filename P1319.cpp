@@ -1,4 +1,4 @@
-//P1319 write by cn_ryh
+// P1319 write by cn_ryh
 #include <iostream>
 
 using namespace std;
@@ -6,23 +6,23 @@ using namespace std;
 int main()
 {
     int a;
-    cin>>a;
-    int s = a*a;
+    cin >> a;
+    int s = a * a;
     int fs = 0;
     int q;
     int thi = 0;
     int flag = 0;
-    while(fs<s)
+    while (fs < s)
     {
-        cin>>q;
-        fs+=q;
-        for(int i = 0;i<q;i++)
+        cin >> q;
+        fs += q;
+        for (int i = 0; i < q; i++)
         {
-            cout<<thi;
+            cout << thi;
             flag++;
-            if(flag % a == 0)
+            if (flag % a == 0)
             {
-                cout<<endl;
+                cout << endl;
             }
         }
         thi = !thi;
