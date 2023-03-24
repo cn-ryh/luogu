@@ -1,37 +1,17 @@
 # luogu
 
-#### 介绍
+## 介绍
 
-洛谷上的题目C++代码
+洛谷上部分题目的正解代码，供学习使用，请勿用于刷 AC 数量。
 
-#### 软件架构
+欢迎各位加入项目，发现代码出现问题无法 AC 请提出 issue。
 
-软件架构说明
+已完成的题目代码正在逐步上传，请勿催促。
 
-#### 安装教程
+## 责任声明
 
-1. xxxx
-2. xxxx
-3. xxxx
+**因使用本项目中代码而产生的损失由使用者自行承担，与作者无关，使用前请仔细阅读项目许可证相关部分，未按照许可证要求使用项目内代码造成的侵权行为，作者有权追究其责任。**
 
-#### 使用说明
+## 贡献者
 
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-#### 特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5. Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+[yuhang-ren](https://gitee.com/yuhang-ren)
