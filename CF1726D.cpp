@@ -1,1 +1,1 @@
-//CF1726D write by cn_ryh
+// CF1726D write by cn_ryh

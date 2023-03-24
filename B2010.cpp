@@ -1,14 +1,15 @@
-//B2010 write by cn_ryh
+// B2010 write by cn_ryh
 #include <iostream>
 using namespace std;
-int a_and_b(int a,int b,int c)
+int a_and_b(int a, int b, int c)
 {
-    return (a+b)/c;
+    return (a + b) / c;
 }
-int main() {
+int main()
+{
     int a;
     int b;
-    cin>>a>>b;
-    cout<<a/b<<" "<<a%b<<endl;
+    cin >> a >> b;
+    cout << a / b << " " << a % b << endl;
     return 0;
 }

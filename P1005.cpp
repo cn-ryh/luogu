@@ -1,1 +1,1 @@
-//P1005 write by cn_ryh
+// P1005 write by cn_ryh
