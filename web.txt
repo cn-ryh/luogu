@@ -1,13 +1,3 @@
-https://www.luogu.com.cn/record/list?pid=P1152&user=ryh2007316&page=1&status=12
-https://www.luogu.com.cn/record/list?pid=P1161&user=ryh2007316&page=1&status=12
-https://www.luogu.com.cn/record/list?pid=P1179&user=ryh2007316&page=1&status=12
-https://www.luogu.com.cn/record/list?pid=P1200&user=ryh2007316&page=1&status=12
-https://www.luogu.com.cn/record/list?pid=P1304&user=ryh2007316&page=1&status=12
-https://www.luogu.com.cn/record/list?pid=P1307&user=ryh2007316&page=1&status=12
-https://www.luogu.com.cn/record/list?pid=P1319&user=ryh2007316&page=1&status=12
-https://www.luogu.com.cn/record/list?pid=P1320&user=ryh2007316&page=1&status=12
-https://www.luogu.com.cn/record/list?pid=P1321&user=ryh2007316&page=1&status=12
-https://www.luogu.com.cn/record/list?pid=P1420&user=ryh2007316&page=1&status=12
 https://www.luogu.com.cn/record/list?pid=P1421&user=ryh2007316&page=1&status=12
 https://www.luogu.com.cn/record/list?pid=P1422&user=ryh2007316&page=1&status=12
 https://www.luogu.com.cn/record/list?pid=P1423&user=ryh2007316&page=1&status=12
