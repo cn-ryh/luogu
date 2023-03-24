@@ -1,8 +1,3 @@
-https://www.luogu.com.cn/record/list?pid=B2033&user=ryh2007316&page=1&status=12
-https://www.luogu.com.cn/record/list?pid=B2035&user=ryh2007316&page=1&status=12
-https://www.luogu.com.cn/record/list?pid=B2036&user=ryh2007316&page=1&status=12
-https://www.luogu.com.cn/record/list?pid=B2043&user=ryh2007316&page=1&status=12
-https://www.luogu.com.cn/record/list?pid=B2048&user=ryh2007316&page=1&status=12
 https://www.luogu.com.cn/record/list?pid=B2049&user=ryh2007316&page=1&status=12
 https://www.luogu.com.cn/record/list?pid=B2110&user=ryh2007316&page=1&status=12
 https://www.luogu.com.cn/record/list?pid=B2147&user=ryh2007316&page=1&status=12
