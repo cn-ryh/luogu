@@ -1,0 +1,1 @@
+// P6477 write by cn_ryh

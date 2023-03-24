@@ -1,0 +1,1 @@
+// P1706 write by cn_ryh

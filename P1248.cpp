@@ -1,0 +1,1 @@
+// P1248 write by cn_ryh

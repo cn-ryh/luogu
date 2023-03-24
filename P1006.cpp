@@ -1,0 +1,1 @@
+// P1006 write by cn_ryh
